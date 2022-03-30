@@ -1,10 +1,8 @@
 # WebClone
 
 Note to instructors: 
-This is a clone of https://strictlyrhythm.com/, an NYC house music record label from the 90s.
+This is a clone of Strictly Rhythm's website, an NYC record label from the early 90s.
 
-please find my version of the above site, here:
-
+Please visit: 
+https://strictlyrhythm.com/
 https://dj-webdev.github.io/WebClone/
-
-
