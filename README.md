@@ -5,6 +5,6 @@ This is a clone of https://strictlyrhythm.com/, an NYC house music record label 
 
 please find my version of the above site, here:
 
-https://strictlyrhythm.com/
+https://dj-webdev.github.io/WebClone/
 
 
